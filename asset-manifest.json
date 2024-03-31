@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pharmacy/static/css/main.8deda4a1.css",
+    "main.js": "/pharmacy/static/js/main.0dbdac5e.js",
+    "static/media/stock-photo-healthcare.jpg": "/pharmacy/static/media/stock-photo-healthcare.d3c517c6e72ec183cd61.jpg",
+    "static/media/logo.png": "/pharmacy/static/media/logo.a7191a4f7b40f450dd31.png",
+    "index.html": "/pharmacy/index.html",
+    "main.8deda4a1.css.map": "/pharmacy/static/css/main.8deda4a1.css.map",
+    "main.0dbdac5e.js.map": "/pharmacy/static/js/main.0dbdac5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8deda4a1.css",
+    "static/js/main.0dbdac5e.js"
+  ]
+}
